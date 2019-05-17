@@ -1,2 +1,2 @@
 all:
-	go build ./cmd/go-graphql-example
+	go build ./cmd/example
