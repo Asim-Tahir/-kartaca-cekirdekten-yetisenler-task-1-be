@@ -27,7 +27,7 @@ go-graphql-example
 ## From manual installation
 
 ```bash
-./example
+./go-graphql-example
 2019/xx/xx xx:xx:xx connect to http://localhost:8080/ for GraphQL playground
 ```
 
