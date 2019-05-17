@@ -13,3 +13,4 @@
 
 db.sqlite
 go-graphql-example
+!cmd/go-graphql-example
