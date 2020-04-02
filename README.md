@@ -1,4 +1,4 @@
-# go-graphql-example
+# go-graphql-sqlite3
 
 An example go web server implementing a GraphQL api.
 
@@ -7,7 +7,7 @@ An example go web server implementing a GraphQL api.
 ## Default installation
 
 ```bash
-go get github.com/shellbear/go-graphql-example/cmd/go-graphql-example
+go get https://github.com/Asim-Tahir/kartaca-cekirdekten-yetisenler-task-1-be/cmd/server
 ```
 
 ## Manual installation
@@ -21,17 +21,17 @@ make
 ## From default installation
 
 ```bash
-go-graphql-example
+server
 ```
 
 ## From manual installation
 
 ```bash
-./go-graphql-example
-2019/xx/xx xx:xx:xx connect to http://localhost:8080/ for GraphQL playground
+./server
+2019/xx/xx xx:xx:xx 🚀 GraphQL Playground Server running on http://localhost:4000/
 ```
 
-Then just open this URL in your favorite browser: [http://localhost:8080/](http://localhost:8080/).
+Then just open this URL in your favorite browser: [http://localhost:4000/](http://localhost:4000/).
 
 ## Examples
 
